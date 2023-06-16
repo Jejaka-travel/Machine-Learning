@@ -1,0 +1,7 @@
+Flask
+dill
+numpy
+pandas
+google-cloud-bigquery==3.11.0
+db-dtypes
+gunicorn==20.1.0
